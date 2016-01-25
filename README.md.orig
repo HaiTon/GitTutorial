@@ -1,4 +1,7 @@
 # GitTutorial
 Basic Git training With some Git internals.
+<<<<<<< HEAD
 This tutorial will include: git basic concept and git internals.
+=======
 Use the .gitignore, .gitconfig for reference.
+>>>>>>> origin/master
