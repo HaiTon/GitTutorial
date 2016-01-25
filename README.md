@@ -1,2 +1,2 @@
 # GitTutorial
-Basic Git training
+Basic Git training With some Git internals.
